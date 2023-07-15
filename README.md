@@ -23,4 +23,7 @@ Uses Neural network for deep learning and predicting the breed of the dog
 
 ## Implementation
 - Implemented the model into an app which recognizes the breed of the dogs.
-  
+
+https://github.com/adityac2542/Dog-Breed-Recognition/assets/18361897/87c81ae8-d110-4b36-b85d-fa4164fff355
+
+
